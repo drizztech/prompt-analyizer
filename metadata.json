@@ -1,0 +1,5 @@
+{
+  "name": "LLM Reverse Engineering Research Tool",
+  "description": "A conceptual React application designed to illustrate the theoretical aspects of LLM user input processing, policy checks, and security considerations for research purposes. It provides a UI to simulate prompt submission and displays detailed explanations of LLM mechanics.",
+  "requestFramePermissions": []
+}
